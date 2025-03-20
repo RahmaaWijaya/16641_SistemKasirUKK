@@ -6,6 +6,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+
 ## 16641_SistemKasirUKK
 
 Tentang Sistem Kasir
@@ -74,6 +75,7 @@ Kasir
 kasir@example.com
 
 password
+
 ##Lisensi
 
 Proyek ini berlisensi di bawah MIT License. Silakan gunakan dan kembangkan lebih lanjut sesuai kebutuhan.
