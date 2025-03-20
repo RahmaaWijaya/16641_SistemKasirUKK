@@ -65,3 +65,72 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # 16641_SistemKasirUKK
+
+Tentang Sistem Kasir
+
+16641_SistemKasirUKK adalah sistem kasir berbasis web yang dikembangkan menggunakan Laravel 11 sebagai tugas Ujian Kompetensi Keahlian (UKK) jurusan Rekayasa Perangkat Lunak (RPL). Sistem ini dirancang untuk membantu pengelolaan transaksi penjualan dengan fitur lengkap dan user-friendly.
+
+# Fitur Utama
+
+Manajemen ProdukTambah, edit, hapus, dan kelola data produk yang tersedia di toko.
+
+Manajemen PelangganMenyimpan informasi pelanggan untuk kemudahan transaksi dan pemberian diskon.
+
+Proses TransaksiMencatat transaksi penjualan, menghitung total harga, diskon, pembayaran, dan kembalian.
+
+Riwayat PenjualanMelihat laporan transaksi yang telah terjadi berdasarkan tanggal.
+
+Manajemen PenggunaSistem login dan manajemen hak akses untuk admin dan kasir.
+
+Cetak StrukMencetak struk transaksi setelah pembayaran berhasil.
+
+# Teknologi yang Digunakan
+
+Laravel 11 - Framework utama untuk backend.
+
+MySQL - Database untuk menyimpan data produk, pelanggan, dan transaksi.
+
+Tailwind - Framework CSS untuk tampilan yang responsif.
+
+JavaScript & jQuery - Interaksi dinamis pada halaman.
+
+phpMyAdmin - Pengelolaan database MySQL.
+
+## Instalasi
+
+Clone Repository
+
+Install Dependency
+
+Buat File Konfigurasi .env
+
+Generate Key Aplikasi
+
+Konfigurasi Database
+Edit file .env dan sesuaikan bagian berikut:
+
+Migrasi Database
+
+Jalankan Server
+
+Akses aplikasi di: http://127.0.0.1:8000
+
+Pengguna Default
+
+Role
+
+Email
+
+Password
+
+Admin
+
+admin@example.com
+
+password
+
+Kasir
+
+kasir@example.com
+
+password
